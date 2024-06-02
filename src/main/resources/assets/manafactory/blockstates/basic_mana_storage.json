@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "manafactory:block/basic_mana_storage" }
+  }
+}
